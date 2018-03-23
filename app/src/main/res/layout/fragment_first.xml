@@ -51,4 +51,13 @@
         android:text="Find Synonym"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/TFword" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tan Tran CMSC355"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="282dp"
+        tools:layout_editor_absoluteY="16dp" />
 </android.support.constraint.ConstraintLayout>
