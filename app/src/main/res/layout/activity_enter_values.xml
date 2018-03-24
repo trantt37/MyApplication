@@ -18,6 +18,8 @@
             android:layout_height="wrap_content"
             android:text="Synonym 1"
             android:textSize="18sp"
+            android:paddingTop="16dp"
+            android:paddingLeft="6dp"
             android:textStyle="bold" />
 
         <TextView
@@ -26,6 +28,8 @@
             android:layout_height="wrap_content"
             android:text="Synonym 2"
             android:textSize="18sp"
+            android:paddingTop="16dp"
+            android:paddingLeft="6dp"
             android:textStyle="bold" />
     </LinearLayout>
 
